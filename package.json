@@ -1,0 +1,16 @@
+{
+  "name": "videostreamer",
+  "version": "1.0.0",
+  "description": "A simple node.js application for a video streamer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Sadananda Yedidi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
